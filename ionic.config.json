@@ -1,0 +1,7 @@
+{
+  "name": "Clase Mov",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
